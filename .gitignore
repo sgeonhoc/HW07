@@ -416,3 +416,15 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# 3인칭 템플릿 관련 모든 파일 제외
+Content/ThirdPerson/
+Content/_ExternalActors_/ThirdPerson/
+Content/_ExternalObjects_/ThirdPerson/
+Content/__ExternalActors__/ThirdPerson/
+
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+.vs/
